@@ -179,63 +179,16 @@ npm start
 
 ## 🛠️ Development
 
-### Building from Source
 
-```bash
-# Install dependencies
-npm install
 
-# Build TypeScript
-npm run build
-
-# Run in development mode
-npm run dev
-```
-
-### Available Scripts
-
-- `npm start`: Start the CLI application
-- `npm run build`: Build TypeScript to JavaScript
-- `npm run dev`: Run with nodemon for development
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
+#
 ## 📝 License
 
 This project is licensed under the ISC License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
-
-- **Google Gemini API** for AI-powered project generation
-- **Node.js** and **TypeScript** for the development platform
-- **Chalk** for beautiful terminal output
-- **Express** and **http-server** for local development servers
-
-## 🐛 Issues and Support
-
-If you encounter any issues or have questions:
-
-1. Check the [Issues](https://github.com/yourusername/CURSORCLI/issues) page
-2. Create a new issue with detailed information
-3. Include your Node.js version and operating system
-
-## 📈 Roadmap
-
-- [ ] Support for more project types (Vue, Angular, etc.)
-- [ ] Database integration
-- [ ] Deployment options (Vercel, Netlify, etc.)
-- [ ] Project templates
-- [ ] Collaboration features
-- [ ] Plugin system
 
 ---
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by [Rachit Pednekar] and AI**
 
 Transform your ideas into reality with CURSORCLI! 🚀 
