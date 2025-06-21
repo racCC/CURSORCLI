@@ -140,13 +140,6 @@ CURSORCLI/
 
 - `GEMINI_API_KEY`: Your Gemini API key for AI-powered project generation
 
-### Project Types Supported
-
-- **HTML/CSS/JS**: Static web applications
-- **Python**: Scripts and applications
-- **React**: React applications with npm
-- **Node.js**: Express servers and APIs
-- **Custom**: Any project type the AI can generate
 
 ## 🎯 Examples
 
@@ -156,13 +149,6 @@ CURSORCLI/
 npm start
 > "Create a to-do list in HTML"
 ```
-
-**Result**: 
-- ✅ Complete to-do app with HTML, CSS, and JavaScript
-- ✅ Automatic server launch at http://localhost:8000
-- ✅ Browser opens automatically
-- ✅ Ready to use immediately
-
 ### Adding Features to Existing Projects
 
 ```bash
@@ -176,6 +162,6 @@ npm start
 
 ---
 
-**Made with ❤️ by [Rachit Pednekar] and AI**
+**Made with ❤️ by Rachit Pednekar and AI**
 
 Transform your ideas into reality with CURSORCLI! 🚀 
