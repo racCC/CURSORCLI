@@ -78,9 +78,6 @@ A powerful command-line interface that uses AI to instantly create, launch, and 
 # Create a weather app
 "Create a weather application"
 
-# Create a Python script
-"Write a Python script for a calculator"
-```
 
 ### Managing Projects
 
@@ -176,16 +173,6 @@ npm start
 - ✅ Dark mode feature added
 - ✅ Project automatically relaunched
 - ✅ Changes visible immediately
-
-## 🛠️ Development
-
-
-
-#
-## 📝 License
-
-This project is licensed under the ISC License - see the [LICENSE](LICENSE) file for details.
-
 
 ---
 
