@@ -5,35 +5,21 @@ A powerful command-line interface that uses AI to instantly create, launch, and 
 ## ✨ Features
 
 ### 🎯 **Instant Project Creation**
-- Create complete web applications with one command
-- AI-powered project generation using Gemini API
-- Automatic file structure and content generation
-- Support for HTML, CSS, JavaScript, Python, React, and more
+-Create HTML, Python, React, Node apps via Gemini AI
 
 ### 🚀 **Automatic Launch**
-- Projects launch automatically after creation
-- Local server setup with browser opening
-- Smart project type detection and appropriate server configuration
+-Projects open in your browser right after creation
 
 ### 🛠️ **Project Management**
-- List all created projects
-- Delete individual projects or all projects
-- Edit existing projects with natural language commands
-- Update and fix issues in existing projects
+-Edit, delete, fix, and upgrade with simple commands
 
 ### 🎨 **Enhanced User Experience**
-- Beautiful terminal UI with colors and animations
-- Progress indicators and success messages
-- Comprehensive help system
-- Error handling and fallback mechanisms
+-Colorful UI, progress indicators, and helpful errors
 
 ## 🚀 Quick Start
 
 ### Prerequisites
-- Node.js (v14 or higher)
-- npm or yarn
-- Python (for HTML server fallback)
-- Git
+-Node.js (v14+), npm/yarn, Python, Git
 
 ### Installation
 
@@ -69,56 +55,16 @@ A powerful command-line interface that uses AI to instantly create, launch, and 
 ### Creating Projects
 
 ```bash
-# Create a to-do list application
 "Create a to-do list in HTML"
-
-# Create a calculator
 "Create a calculator in HTML"
-
-# Create a weather app
-"Create a weather application"
-
-
-### Managing Projects
-
-```bash
 # List all projects
 list
-
 # Delete a specific project
 delete todo-app
-
 # Delete all projects (with confirmation)
 delete all
-
 # Show help
 help
-```
-
-### Editing Projects
-
-```bash
-# Fix issues
-"css file is not working"
-
-# Add features
-"edit the calculator to add dark mode"
-
-# Modify styling
-"modify the styling in weather app"
-
-# Add new functionality
-"add a search feature to todo-app"
-```
-
-### Running Projects
-
-```bash
-# Run a project
-"run the project"
-
-# Execute a specific project
-"execute the python script"
 ```
 
 ## 🏗️ Project Structure
@@ -141,24 +87,7 @@ CURSORCLI/
 - `GEMINI_API_KEY`: Your Gemini API key for AI-powered project generation
 
 
-## 🎯 Examples
 
-### Creating a Complete To-Do App
-
-```bash
-npm start
-> "Create a to-do list in HTML"
-```
-### Adding Features to Existing Projects
-
-```bash
-> "edit the todo app to add dark mode"
-```
-
-**Result**:
-- ✅ Dark mode feature added
-- ✅ Project automatically relaunched
-- ✅ Changes visible immediately
 
 ---
 
