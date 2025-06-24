@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/7bd9ec3d-fe76-4a61-b15f-63798ae66d29)
+
 # 🚀 CURSORCLI - AI-Powered Project Generator
 
 A powerful command-line interface that uses AI to instantly create, launch, and manage web applications and projects. Turn your ideas into working applications with a single command!
